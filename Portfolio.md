@@ -2,8 +2,8 @@
 
 My Project List, when I worked at companies I worked with these projects
 
-1) Crypto-gifting involves gifting and receiving crypto using ZAR, a South African project, with the help of VALR and CallPay APIS and SDKs. Withdrawals can be made once the sender completes KYC verification.
-  https://discoveritech.com/cryptogifting
+<li> 1) Crypto-gifting involves gifting and receiving crypto using ZAR, a South African project, with the help of VALR and CallPay APIS and SDKs. Withdrawals can be made once the sender completes KYC verification.
+  <li>https://discoveritech.com/cryptogifting</li></li>
 
 2) Natalia developed and designed web services and a dashboard for a diet and fitness application, including a new architecture for diet plans and mobile application services for both Android and IOS.
   https://github.com/discovermasroor/natalia-ﬁtness
@@ -25,7 +25,7 @@ https://logoperfecto.com
 10) Product Based Company ACE Digital project.
 https;//designcater.com
 
-11)Product Based Company ACE Digital project
+11) Product Based Company ACE Digital project
   https://logoin60.com
 
 12)	Sharkspeed client project
