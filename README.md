@@ -51,8 +51,8 @@ https;//designcater.com
 20)  Product Based Company ACE Digital project
       https://discoveritech.com/miguel-lms/public/
 
-Individual Projects
-21) Formar Connections Hidaya Project with all SRS provided about the work
+<ol>Individual Projects</ol>
+<ol>21) Formar Connections Hidaya Project with all SRS provided about the work</ol>
 '
 22) Hotel Reservation and Management System
 
